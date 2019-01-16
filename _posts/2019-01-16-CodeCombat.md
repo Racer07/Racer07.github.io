@@ -60,18 +60,12 @@ published: true
   <tr>
     <td>What could have gone better in your learning?</td>
     <td></td>
-  </tr>
-  <tr>
-    <td>I could've got started a bit quicker, as it took awhile to make an account.</td>
-    <td></td>
+    <td>I could've got started a bit quicker, as it took me some time to make an account.</td>
   </tr>
   <tr>
     <td>What changes do you need to make to improve your learning next time?</td>
     <td></td>
-  </tr>
-  <tr>
     <td>Make the account quicker, to get onto the code.</td>
-    <td></td>
   </tr>
 </table>
 
